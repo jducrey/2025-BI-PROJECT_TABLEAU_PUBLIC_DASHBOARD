@@ -20,10 +20,14 @@ The data comes from this Kaggle:
 It includes the following attributes:
 
 📍 Location – Country of ski resorts in Europe.
+
 🎿 Infrastructure – Total number of slopes, snow canons, chair lifts, gondola lifts, total ski area (in km), the presence of a snowpark or not and 
 the eventual possibility of night ski.
-⛷️ Slope Difficulty – Total number of beginner, intermediate and difficult slopes.
+
+⛷️ Slope Difficulty – Total number of beginner,intermediate and difficult slopes.
+
 💰 Pricing – Daily adult ski pass prices in resort.
+
 ❄️ Altitude – Minimum and maximum resort altitudes.
 
 ### 📊 Dashboards & Analysis
